@@ -24,7 +24,12 @@ const roomOptions = [
   description: 'King bed with private balcony',
   nightlyPrice: 219,
 },
-
+  {
+    id: 'room-royal-penthouse',
+    name: 'Royal Penthouse Suite',
+    description: 'Luxury penthouse with a private balcony, elegant furnishings, and panoramic city views, private pool',
+    nightlyPrice: 608,
+  },
 ];
 
 export default roomOptions;
